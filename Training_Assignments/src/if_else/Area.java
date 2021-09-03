@@ -1,4 +1,4 @@
-package com.my;
+package if_else;
 import java.util.Scanner;
 public class Area {
 

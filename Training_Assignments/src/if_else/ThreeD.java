@@ -1,7 +1,7 @@
 package if_else;
 
 import java.util.*;
-class ThreeDigit
+class ThreeD
 { 
    public static void main(String args[])
    {
