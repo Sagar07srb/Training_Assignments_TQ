@@ -1,4 +1,4 @@
-package tq;
+package exceptionHandling;
 
 import java.util.Scanner;
 
